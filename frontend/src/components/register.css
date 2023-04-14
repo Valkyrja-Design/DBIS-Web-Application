@@ -1,0 +1,14 @@
+.sc-gswNZR.hCpHso{
+    display: none;
+}
+
+.btn-primary{
+    width: 156px !important;
+    position: relative !important;
+    padding-left: 0px !important;
+}
+.dropdown-toggle::after{
+    position: absolute !important;
+    right: 9px !important;
+    top:16px !important;
+}

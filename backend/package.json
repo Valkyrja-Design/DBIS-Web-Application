@@ -1,0 +1,26 @@
+{
+  "name": "iitasc",
+  "version": "1.0.0",
+  "description": "Student login system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Services/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "IITASC"
+  },
+  "keywords": [
+    "asc"
+  ],
+  "author": "Nagendra Singh",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "pg": "^8.2.2"
+  }
+}
